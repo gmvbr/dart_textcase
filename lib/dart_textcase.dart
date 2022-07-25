@@ -1,6 +1,6 @@
 library dart_textcase;
 
-const _separators = ['_', '-', '/', '.', ',', ' '];
+const _separators = ['_', '-', '/', '.', ',', ' ', '\t', '\r', '\n'];
 
 const _upper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 const _lower = "abcdefghijklmnopqrstuvwxyz";
